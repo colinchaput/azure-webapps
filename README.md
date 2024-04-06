@@ -1,2 +1,2 @@
 # azure-webapps
-collection of azure webapps I'm working on
+collection of azure webapps projects
